@@ -1,4 +1,8 @@
 abcd
 ooooo
+<<<<<<< HEAD
 branch
 master
+=======
+second branch
+>>>>>>> dev
