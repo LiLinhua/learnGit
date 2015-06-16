@@ -1,3 +1,3 @@
 abcd
 ooooo
-master first new branch
+new branch
